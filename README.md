@@ -1,2 +1,1 @@
-# Tetep_Genome
-Denovo assembly and analysis of Oryza sativa ssp. indica Tetep genome
+### Pipeines to assembly, evaluation and annotation of a resistant rice genome *Oryza sativa* ssp. *indica* var. Tetep
